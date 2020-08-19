@@ -1,0 +1,9 @@
+F:\gamehacking\v1\v1\obj\Debug\v1.csprojAssemblyReference.cache
+F:\gamehacking\v1\v1\obj\Debug\v1.csproj.CoreCompileInputs.cache
+F:\gamehacking\v1\v1\bin\Debug\v1.exe.config
+F:\gamehacking\v1\v1\bin\Debug\v1.exe
+F:\gamehacking\v1\v1\bin\Debug\v1.pdb
+F:\gamehacking\v1\v1\bin\Debug\VAMemory.dll
+F:\gamehacking\v1\v1\obj\Debug\v1.csproj.CopyComplete
+F:\gamehacking\v1\v1\obj\Debug\v1.exe
+F:\gamehacking\v1\v1\obj\Debug\v1.pdb
